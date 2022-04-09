@@ -1,4 +1,4 @@
-package ro.pub.cs.systems.eim.lab05.boundedserviceactivity.service;
+package main.java.ro.pub.cs.systems.eim.lab05.boundedserviceactivity.service;
 
 import android.app.Service;
 import android.content.Intent;
